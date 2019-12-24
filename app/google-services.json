@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358797122234",
+    "firebase_url": "https://money-plan-101b7.firebaseio.com",
+    "project_id": "money-plan-101b7",
+    "storage_bucket": "money-plan-101b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358797122234:android:91985ab72a0dcdda3e0083",
+        "android_client_info": {
+          "package_name": "com.example.louaybaccary.moneyplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358797122234-7aq6g85s0udkj8e9tqe4m2uajpc290gc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.louaybaccary.moneyplan",
+            "certificate_hash": "a538314fde1bd6e8b1052e33fd02a8666d984c65"
+          }
+        },
+        {
+          "client_id": "358797122234-qipnf0s7rugohulqem4r2lfc0mktmjrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbxFCx5K0j7tRPwT54vcVIO_jndQhLI1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358797122234-qipnf0s7rugohulqem4r2lfc0mktmjrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

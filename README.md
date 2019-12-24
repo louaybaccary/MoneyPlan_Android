@@ -1,1 +1,2 @@
-# MoneyPlan_Android
+# MoneyPlan
+ The Android version of MoneyPlan App
